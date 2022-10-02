@@ -1,3 +1,3 @@
-## Enunciado exercìcio 06
+## Enunciado exercício 06
 
 Faça um Programa que peça o raio de um círculo, calcule e mostre sua área.
